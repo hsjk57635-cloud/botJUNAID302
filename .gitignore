@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.wwebjs_auth/
+auth_info_baileys/
+session/
+sessions/
+store/
+*.session
+*.auth.json
